@@ -1,8 +1,5 @@
 # Hero Rank Calculator
 
-![JavaScript](https://img.shields.io/badge/language-JavaScript-informational)
-![License](https://img.shields.io/badge/license-MIT-blue)
-
 A small JavaScript program that calculates a hero's net wins (wins minus defeats), assigns a rank based on the result, and prints a summary using the hero's first name.
 
 ## Table of Contents
